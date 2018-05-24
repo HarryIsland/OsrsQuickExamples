@@ -19,3 +19,4 @@ and for user authentication pages
 
 ![user auth gif](https://github.com/HarryIsland/OsrsQuickExamples/blob/master/readme_images/user_auth.gif)
 
+I left out actions, reducers and test files. I might add them a bit later.
